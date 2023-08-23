@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "server.context-path",
+  "type": "java.lang.String",
+    "description": "Setting the context path for the entire application"
+}]}
